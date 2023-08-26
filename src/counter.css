@@ -1,0 +1,12 @@
+.main{
+    min-height:100vh;
+    background-color: cornflowerblue;
+}
+
+.inside__div{
+    padding-top:30vh;
+}
+
+.inside__div > button{
+    width: 70px;
+}
